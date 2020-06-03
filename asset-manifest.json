@@ -48,10 +48,10 @@
     "static/js/19.429f2fa9.chunk.js": "/Recipes2/static/js/19.429f2fa9.chunk.js",
     "static/js/19.429f2fa9.chunk.js.map": "/Recipes2/static/js/19.429f2fa9.chunk.js.map",
     "main.css": "/Recipes2/static/css/main.59431c1b.chunk.css",
-    "main.js": "/Recipes2/static/js/main.9c5ef58b.chunk.js",
-    "main.js.map": "/Recipes2/static/js/main.9c5ef58b.chunk.js.map",
-    "runtime-main.js": "/Recipes2/static/js/runtime-main.09458e73.js",
-    "runtime-main.js.map": "/Recipes2/static/js/runtime-main.09458e73.js.map",
+    "main.js": "/Recipes2/static/js/main.65c828c7.chunk.js",
+    "main.js.map": "/Recipes2/static/js/main.65c828c7.chunk.js.map",
+    "runtime-main.js": "/Recipes2/static/js/runtime-main.1037117d.js",
+    "runtime-main.js.map": "/Recipes2/static/js/runtime-main.1037117d.js.map",
     "static/js/22.4efa69a9.chunk.js": "/Recipes2/static/js/22.4efa69a9.chunk.js",
     "static/js/22.4efa69a9.chunk.js.map": "/Recipes2/static/js/22.4efa69a9.chunk.js.map",
     "static/js/23.67ae211d.chunk.js": "/Recipes2/static/js/23.67ae211d.chunk.js",
@@ -59,8 +59,8 @@
     "static/js/24.8a0ba1c3.chunk.js": "/Recipes2/static/js/24.8a0ba1c3.chunk.js",
     "static/js/24.8a0ba1c3.chunk.js.map": "/Recipes2/static/js/24.8a0ba1c3.chunk.js.map",
     "static/css/25.1c5aee86.chunk.css": "/Recipes2/static/css/25.1c5aee86.chunk.css",
-    "static/js/25.21ef128c.chunk.js": "/Recipes2/static/js/25.21ef128c.chunk.js",
-    "static/js/25.21ef128c.chunk.js.map": "/Recipes2/static/js/25.21ef128c.chunk.js.map",
+    "static/js/25.55e8d058.chunk.js": "/Recipes2/static/js/25.55e8d058.chunk.js",
+    "static/js/25.55e8d058.chunk.js.map": "/Recipes2/static/js/25.55e8d058.chunk.js.map",
     "static/css/26.490f7899.chunk.css": "/Recipes2/static/css/26.490f7899.chunk.css",
     "static/js/26.c55b59af.chunk.js": "/Recipes2/static/js/26.c55b59af.chunk.js",
     "static/js/26.c55b59af.chunk.js.map": "/Recipes2/static/js/26.c55b59af.chunk.js.map",
@@ -343,7 +343,7 @@
     "static/js/140.efbe0e77.chunk.js": "/Recipes2/static/js/140.efbe0e77.chunk.js",
     "static/js/140.efbe0e77.chunk.js.map": "/Recipes2/static/js/140.efbe0e77.chunk.js.map",
     "index.html": "/Recipes2/index.html",
-    "precache-manifest.c611de97f67f14c3285587a1502d7da3.js": "/Recipes2/precache-manifest.c611de97f67f14c3285587a1502d7da3.js",
+    "precache-manifest.9b72938741f0dd1866a6ea83d46cfd3e.js": "/Recipes2/precache-manifest.9b72938741f0dd1866a6ea83d46cfd3e.js",
     "service-worker.js": "/Recipes2/service-worker.js",
     "static/css/11.3d06f600.chunk.css.map": "/Recipes2/static/css/11.3d06f600.chunk.css.map",
     "static/css/14.63865653.chunk.css.map": "/Recipes2/static/css/14.63865653.chunk.css.map",
@@ -411,7 +411,7 @@
     "static/js/22.4efa69a9.chunk.js.LICENSE.txt": "/Recipes2/static/js/22.4efa69a9.chunk.js.LICENSE.txt",
     "static/js/23.67ae211d.chunk.js.LICENSE.txt": "/Recipes2/static/js/23.67ae211d.chunk.js.LICENSE.txt",
     "static/js/24.8a0ba1c3.chunk.js.LICENSE.txt": "/Recipes2/static/js/24.8a0ba1c3.chunk.js.LICENSE.txt",
-    "static/js/25.21ef128c.chunk.js.LICENSE.txt": "/Recipes2/static/js/25.21ef128c.chunk.js.LICENSE.txt",
+    "static/js/25.55e8d058.chunk.js.LICENSE.txt": "/Recipes2/static/js/25.55e8d058.chunk.js.LICENSE.txt",
     "static/js/28.6fb334e0.chunk.js.LICENSE.txt": "/Recipes2/static/js/28.6fb334e0.chunk.js.LICENSE.txt",
     "static/js/31.11b45c5a.chunk.js.LICENSE.txt": "/Recipes2/static/js/31.11b45c5a.chunk.js.LICENSE.txt",
     "static/js/37.65802019.chunk.js.LICENSE.txt": "/Recipes2/static/js/37.65802019.chunk.js.LICENSE.txt",
@@ -525,9 +525,9 @@
     "static/media/wireless-earphones.png": "/Recipes2/static/media/wireless-earphones.0b5207c3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.09458e73.js",
+    "static/js/runtime-main.1037117d.js",
     "static/js/22.4efa69a9.chunk.js",
     "static/css/main.59431c1b.chunk.css",
-    "static/js/main.9c5ef58b.chunk.js"
+    "static/js/main.65c828c7.chunk.js"
   ]
 }
