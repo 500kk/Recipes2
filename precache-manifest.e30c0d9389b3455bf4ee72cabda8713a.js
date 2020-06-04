@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f37d42dc131cf106b9e4e9bc5f05ce9",
+    "revision": "8dd2c8cbeb4a4a67159a694baf7360e4",
     "url": "/Recipes2/index.html"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Recipes2/static/css/2.9d9e154e.chunk.css"
   },
   {
-    "revision": "4f56bc3bde0b3b459ccb",
+    "revision": "4993e5f92e7f8fa3c97f",
     "url": "/Recipes2/static/css/25.1c5aee86.chunk.css"
   },
   {
@@ -240,7 +240,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Recipes2/static/css/91.f65ef936.chunk.css"
   },
   {
-    "revision": "c582c2b67c982214495c",
+    "revision": "b19959805492ecde40b2",
     "url": "/Recipes2/static/css/main.59431c1b.chunk.css"
   },
   {
@@ -496,12 +496,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Recipes2/static/js/24.8a0ba1c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f56bc3bde0b3b459ccb",
-    "url": "/Recipes2/static/js/25.928c88aa.chunk.js"
+    "revision": "4993e5f92e7f8fa3c97f",
+    "url": "/Recipes2/static/js/25.cc629196.chunk.js"
   },
   {
     "revision": "d51c699b4357cb37dcc86d11129f128d",
-    "url": "/Recipes2/static/js/25.928c88aa.chunk.js.LICENSE.txt"
+    "url": "/Recipes2/static/js/25.cc629196.chunk.js.LICENSE.txt"
   },
   {
     "revision": "582c89573b9b35cd3248",
@@ -856,12 +856,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Recipes2/static/js/99.0e78f94e.chunk.js"
   },
   {
-    "revision": "c582c2b67c982214495c",
-    "url": "/Recipes2/static/js/main.625f0bf6.chunk.js"
+    "revision": "b19959805492ecde40b2",
+    "url": "/Recipes2/static/js/main.eec52017.chunk.js"
   },
   {
-    "revision": "17905a1a504c89a4c2f8",
-    "url": "/Recipes2/static/js/runtime-main.1e6984ed.js"
+    "revision": "76e0ba58bfa588d4e92e",
+    "url": "/Recipes2/static/js/runtime-main.d391760c.js"
   },
   {
     "revision": "68c25447bcf4497d03268dab4c36eba9",
